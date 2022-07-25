@@ -18,7 +18,7 @@
 
 ### Language :
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=C++)
+![C++](https://img.shields.io/badge/C++-purple.svg?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
 
 
