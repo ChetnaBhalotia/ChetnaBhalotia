@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">
+   Hey there :heartbeat: ! I'm Chetna Bhalotia!
+ </h1>
+<p align="center">
+    * I'm a 2nd year student in KIIT, Bhubaneswar, Odisha :classical_building: pursuing Bachelors in Computer Science :student:. I'm a passionate and a friendly person who's willing to learn and work with different people for a wider perspective and exposure:star_struck:. * </p>
+
+
 
 <!--
 **ChetnaBhalotia/ChetnaBhalotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
